@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Bash Scripting
 - 💞️ I’m looking to collaborate on Bash Scripting and Sysadmin Linux
 - 📫 How to reach me newtonr365@gmail.com
+- 👉 My Linkedin <a href="linkedin.com/in/rochanewton" target="_blank">...</a>
 
 <!---
 nrockbr/nrockbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
